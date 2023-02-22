@@ -6,6 +6,6 @@
 </head>
 <body>
 <h3>Order Processed</h3>
-<h4>Thanks <span style="color:red">${name}</span>, Your order's for <span style="color:blue">${product}</span> is received!!</h4>
+<h4>Thanks <span style="color:red">${name}</span>, Your order for <span style="color:blue">${product}</span> is received!!</h4>
 </body>
 </html>
